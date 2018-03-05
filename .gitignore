@@ -3,6 +3,10 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+#ignore all csv's and zip files
+*.csv
+*.zip
+
 # C extensions
 *.so
 
